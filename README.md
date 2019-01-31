@@ -1,4 +1,8 @@
 # Data-Analysis
-Data Analysis Using R and Python
+Data Science Projects Using Python and a little R. 
 
-A place to share my code for various data analysis projects, both personal, and research project related. 
+This repository is a place to share my code and notebooks for numerous data science projects.
+
+Many of these projects are written up on my [Towards Data Science Medium page](https://medium.com/@williamkoehrsen). 
+
+Reach me on Twitter [@koehrsen_will](https://twitter.com/@koehrsen_will)
